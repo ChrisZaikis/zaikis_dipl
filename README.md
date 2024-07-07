@@ -14,7 +14,6 @@ there will be an analytics page where we can see with a graph with the income fr
 In addition, you will also make a comparison of days in the orders to see the difference in sales.
 The implementation was based on the JavaScript programming language and the MongoDB database were used for its.
 The web application was implemented for the presentation layer with React.js. The Visual Studio Code IDE was used for development.
-![image](https://github.com/ChrisZaikis/zaikis_dipl/assets/171047564/cce5f3f6-c474-4e40-bc44-ebd8d878075e)
 
 ## Quickstart Guide
 
