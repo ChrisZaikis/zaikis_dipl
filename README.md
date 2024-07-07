@@ -42,8 +42,7 @@ Make sure you have your own credentials:
 
 ## Demo
 
-
-
+This application is deployed on Render Please check it out :smile: [here](https://frontend-obqs.onrender.com/).
 ## Install
 
 Some basic Git commands are:
