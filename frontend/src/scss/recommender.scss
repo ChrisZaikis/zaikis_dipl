@@ -1,0 +1,93 @@
+.center {
+  margin: auto;
+  width: 48%;
+  border: 3px solid green;
+  padding: 10px;
+}
+.topsales {
+  margin: auto;
+  width: 48%;
+  border: 3px solid green;
+  padding: 10px;
+}
+.bsales {
+  margin: auto;
+  width: 45%;
+  border: 3px solid green;
+  padding: 10px;
+}
+.carousel-caption {
+  position: relative;
+
+  width: 100%;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.product-detail-container {
+  display: flex;
+  gap: 40px;
+  margin: 40px;
+  margin-top: 60px;
+  color: #324d69;
+}
+.track {
+  animation: marquee 10s linear infinite;
+  width: 550%;
+}
+.maylike-products-wrapper {
+  margin-top: 120px;
+}
+.maylike-products-wrapper h2 {
+  text-align: center;
+  margin: 50px;
+  overflow: hidden;
+  /* color: #324d67; */
+
+  font-size: 28px;
+}
+.maylike-products-container {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+  margin-top: 20px;
+  overflow: hidden;
+}
+.marquee {
+  display: flex;
+  position: relative;
+  height: 400px;
+  width: 100%;
+  overflow-x: hidden;
+  overflow: hidden;
+}
+.product-card {
+  display: flex;
+  cursor: pointer;
+  transform: scale(1, 1);
+  transition: transform 0.5s ease;
+  color: #324d67;
+}
+.product-card:hover {
+  transform: scale(1.1, 1.1);
+}
+.product-image {
+  display: flex;
+  border-radius: 15px;
+  /* background-color: #ebebeb; */
+
+  transform: scale(1, 1);
+  transition: transform 0.5s ease;
+}
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+.smaller-input {
+  height: auto;
+  line-height: 10px;
+}
