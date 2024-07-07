@@ -17,30 +17,15 @@ The web application was implemented for the presentation layer with React.js. Th
 
 ## Quickstart Guide
 
-To run this project locally you can use docker compose provided in the repository. Here is a guide on how to run this project locally using docker compose.
+Make sure you have your own credentials:
+ - in backend/.env file for MONGO_URI variable
+ - frontend/src/pages/user/UserOrderDetailsPage.js for PayPal client-id
 
-Clone the repository
-```
-$ git clone https://github.com/mohamedsamara/mern-ecommerce.git
-```
+1. Open terminal on the frontend folder and run "npm install"
+2. Open terminal on the backend folder and run "npm install"
+3. Having terminal opened on the backend run "npm run dev" to run the application
+4. Optionally run seeders by running "npm run seed:data" (being in the backend folder)
 
-Edit the dockercompose.yml file and update the the values for MONGO_URI and JWT_SECRET
-
-Then simply start the docker compose:
-```
-$ docker compose -f dockercompose.yml up
-```
-
-## Database Seed
-
-* The seed command will create an admin user in the database
-* The email and password are passed with the command as arguments
-* Like below command, replace brackets with email and password. 
-* For more information, see code [here](server/utils/seed.js)
-
-```
-npm run seed:db [email-***@****.com] [password-******] // This is just an example.
-```
 
 ## Demo
 
@@ -90,22 +75,4 @@ $ npm start
 - [Webpack](https://webpack.js.org/)
 
 
-### Code Formatter
 
-- Add a `.vscode` directory
-- Create a file `settings.json` inside `.vscode`
-- Install Prettier - Code formatter in VSCode
-- Add the following snippet:  
-
-```json
-
-    {
-      "editor.formatOnSave": true,
-      "prettier.singleQuote": true,
-      "prettier.arrowParens": "avoid",
-      "prettier.jsxSingleQuote": true,
-      "prettier.trailingComma": "none",
-      "javascript.preferences.quoteStyle": "single",
-    }
-
-```
