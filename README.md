@@ -48,7 +48,7 @@ This application is deployed on Render Please check it out :smile: [here](https:
 Some basic Git commands are:
 
 ```
-$ git clone https://github.com/mohamedsamara/mern-ecommerce.git
+$ git clone 
 $ cd project
 $ npm install
 ```
