@@ -48,7 +48,7 @@ This application is deployed on Render Please check it out :smile: [here](https:
 Some basic Git commands are:
 
 ```
-$ git clone 
+$ git clone https://github.com/ChrisZaikis/zaikis_dipl.git
 $ cd project
 $ npm install
 ```
