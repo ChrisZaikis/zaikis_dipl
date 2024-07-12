@@ -1,7 +1,7 @@
 
 # MERN Ecommerce
 
-## 📒 Description
+## :ledger: Description
 
 The presence of e-commerce has created convenience and innovation for humans. Variables such as perceived benefits, 
 specific areas of innovation and shopping orientations that are fast, branded and certified show that interest in online shopping is growing. 
@@ -15,7 +15,7 @@ In addition, you will also make a comparison of days in the orders to see the di
 The implementation was based on the JavaScript programming language and the MongoDB database were used for its.
 The web application was implemented for the presentation layer with React.js. The Visual Studio Code IDE was used for development.
 
-## Ecommerce
+## :shopping_cart:Ecommerce
 ![Στιγμιότυπο οθόνης 2024-07-07, 17 55 49 (2)](https://github.com/ChrisZaikis/zaikis_dipl/assets/171047564/71b52b7e-191f-4b33-bfa7-20306a72874b)
 
 <img width="1447" alt="Στιγμιότυπο οθόνης 2024-07-07, 17 52 37" src="https://github.com/ChrisZaikis/zaikis_dipl/assets/171047564/0565ff94-e9ce-4fa6-af14-1d4cc9f5b79a">
@@ -36,9 +36,9 @@ Make sure you have your own credentials:
 ## :eyes: Demo Website
 
 This application is deployed on Render Please check it out :smile: [here](https://frontend-obqs.onrender.com/).
-## Install
+## :hammer_and_wrench: Setting Up the Application
 
-Some basic Git commands are:
+ Clone the Repository::octopus:
 
 ```
 $ git clone https://github.com/ChrisZaikis/zaikis_dipl.git
@@ -46,7 +46,7 @@ $ cd project
 $ npm install
 ```
 
-## Start development
+## :star2: Start development
 
 ```
 $ npm run dev
