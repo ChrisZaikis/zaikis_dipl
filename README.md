@@ -77,5 +77,8 @@ $ npm start
 
 - [Webpack](https://webpack.js.org/)
 
+## :closed_book: License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/ChrisZaikis/zaikis_dipl?tab=License-1-ov-file) file for details.
 
 
