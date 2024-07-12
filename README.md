@@ -33,7 +33,7 @@ Make sure you have your own credentials:
 4. Optionally run seeders by running "npm run seed:data" (being in the backend folder)
 
 
-## Demo
+## Deploy on Render
 
 This application is deployed on Render Please check it out :smile: [here](https://frontend-obqs.onrender.com/).
 ## Install
