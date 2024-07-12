@@ -21,7 +21,7 @@ The web application was implemented for the presentation layer with React.js. Th
 <img width="1447" alt="Στιγμιότυπο οθόνης 2024-07-07, 17 52 37" src="https://github.com/ChrisZaikis/zaikis_dipl/assets/171047564/0565ff94-e9ce-4fa6-af14-1d4cc9f5b79a">
 
 
-## Quickstart Guide
+## :construction_worker: Quickstart Guide
 
 Make sure you have your own credentials:
  - in backend/.env file for MONGO_URI variable
