@@ -38,7 +38,7 @@ Make sure you have your own credentials:
 This application is deployed on Render Please check it out :smile: [here](https://frontend-obqs.onrender.com/).
 ## :hammer_and_wrench: Setting Up the Application
 
- Clone the Repository::octopus:
+## Clone the Repository::octopus:
 
 ```
 $ git clone https://github.com/ChrisZaikis/zaikis_dipl.git
