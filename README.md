@@ -1,7 +1,7 @@
 
 # MERN Ecommerce
 
-## Description
+## 📒 Description
 
 The presence of e-commerce has created convenience and innovation for humans. Variables such as perceived benefits, 
 specific areas of innovation and shopping orientations that are fast, branded and certified show that interest in online shopping is growing. 
