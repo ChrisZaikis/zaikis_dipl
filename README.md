@@ -1,5 +1,5 @@
 
-# MERN Ecommerce
+# MERN  Fullstack Ecommerce
 
 ## :ledger: Description
 
