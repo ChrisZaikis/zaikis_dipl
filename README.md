@@ -65,7 +65,7 @@ $ npm start
 ```
 
 
-## Languages & tools
+## :computer: Technologies
 
 - [Node](https://nodejs.org/en/)
 
