@@ -1,5 +1,5 @@
 
-# :atom_symbol: MERN  Fullstack Ecommerce
+# :atom_symbol: Fullstack MERN Ecommerce
 
 ## :ledger: Description
 
