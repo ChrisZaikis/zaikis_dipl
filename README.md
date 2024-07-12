@@ -36,7 +36,7 @@ Make sure you have your own credentials:
 ## :eyes: Demo Website
 
 This application is deployed on Render Please check it out :smile: [here](https://frontend-obqs.onrender.com/).
-## :hammer_and_wrench: Setting Up the Application
+# :hammer_and_wrench: Setting Up the Application
 
 ## Clone the Repository :octopus:
 
