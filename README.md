@@ -20,13 +20,6 @@ The web application was implemented for the presentation layer with React.js. Th
 
 <img width="1447" alt="Στιγμιότυπο οθόνης 2024-07-07, 17 52 37" src="https://github.com/ChrisZaikis/zaikis_dipl/assets/171047564/0565ff94-e9ce-4fa6-af14-1d4cc9f5b79a">
 
-<img width="1445" alt="Στιγμιότυπο οθόνης 2024-07-07, 17 53 15" src="https://github.com/ChrisZaikis/zaikis_dipl/assets/171047564/e48e8b49-c6bc-43c3-9793-7d2e08bd4778">
-
-<img width="1453" alt="Στιγμιότυπο οθόνης 2024-07-07, 17 52 53" src="https://github.com/ChrisZaikis/zaikis_dipl/assets/171047564/1db14e8d-4325-4709-b48a-e4dc1315036e">
-
-
-
-
 
 ## Quickstart Guide
 
