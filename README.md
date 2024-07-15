@@ -18,7 +18,8 @@ The web application was implemented for the presentation layer with React.js. Th
 ## :shopping_cart: Ecommerce
 ![Στιγμιότυπο οθόνης 2024-07-07, 17 55 49 (2)](https://github.com/ChrisZaikis/zaikis_dipl/assets/171047564/71b52b7e-191f-4b33-bfa7-20306a72874b)
 
-<img width="1447" alt="Στιγμιότυπο οθόνης 2024-07-07, 17 52 37" src="https://github.com/ChrisZaikis/zaikis_dipl/assets/171047564/0565ff94-e9ce-4fa6-af14-1d4cc9f5b79a">
+<img width="1447" alt="Στιγμιότυπο οθόνης 2024-07-15, 20 50 09" src="https://github.com/user-attachments/assets/669550b8-d813-4d5d-8988-4bc8fd573a96">
+
 
 
 ## :construction_worker: Quickstart Guide
