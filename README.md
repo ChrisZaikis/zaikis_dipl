@@ -16,9 +16,11 @@ The implementation was based on the JavaScript programming language and the Mong
 The web application was implemented for the presentation layer with React.js. The Visual Studio Code IDE was used for development.
 
 ## :shopping_cart: Ecommerce
-![Στιγμιότυπο οθόνης 2024-07-07, 17 55 49 (2)](https://github.com/ChrisZaikis/zaikis_dipl/assets/171047564/71b52b7e-191f-4b33-bfa7-20306a72874b)
 
-<img width="1447" alt="Στιγμιότυπο οθόνης 2024-07-15, 20 50 09" src="https://github.com/user-attachments/assets/669550b8-d813-4d5d-8988-4bc8fd573a96">
+
+
+https://github.com/user-attachments/assets/c3473f37-b2b7-44f2-a6e9-da72e3acf9ed
+
 
 
 
