@@ -1,5 +1,4 @@
 .menu-wrapper {
-  /* border: 3px solid #ccc; */
   width: 50px;
   height: 50px;
   cursor: pointer;
@@ -72,13 +71,12 @@
   border-radius: 4px;
   transition: transform 0.3s ease;
   &:hover {
-    transform: scale(1.05); /* Zoom in on hover */
+    transform: scale(1.05);
   }
 }
 
 .nav-text a:hover {
   background-color: #1a83ff;
-
   transform: scale(0.95);
 }
 
