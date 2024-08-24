@@ -94,9 +94,17 @@ const UserCartDetailsPageComponent = ({
       }),
       paymentMethod: paymentMethod,
     };
+
     createOrder(orderData)
       .then((data) => {
         if (data) {
+          // After successful order creation, remove the items from the cart
+          cartItems.forEach((item) => {
+            reduxDispatch(
+              removeFromCart(item.productID, item.quantity, item.price)
+            );
+          });
+          // Navigate to the order details page
           navigate("/user/order-details/" + data._id);
         }
       })

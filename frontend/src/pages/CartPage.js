@@ -1,11 +1,7 @@
 import CartPageComponent from "./components/CartPageComponent";
 import axios from "axios";
 import { useSelector, useDispatch } from "react-redux";
-import {
-  addToCart,
-  removeFromCart,
-  clearFromCart,
-} from "../redux/actions/cartActions";
+import { addToCart, removeFromCart } from "../redux/actions/cartActions";
 
 const getTopsales = async () => {
   const { data } = await axios.get("/api/products/topsales");
@@ -21,7 +17,6 @@ const CartPage = () => {
     <CartPageComponent
       addToCart={addToCart}
       removeFromCart={removeFromCart}
-      clearFromCart={clearFromCart}
       cartItems={cartItems}
       cartSubtotal={cartSubtotal}
       reduxDispatch={reduxDispatch}

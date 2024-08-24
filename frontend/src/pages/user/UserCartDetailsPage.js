@@ -1,11 +1,7 @@
 import UserCartDetailsPageComponent from "./components/UserCartDetailsPageComponent";
 
 import { useSelector, useDispatch } from "react-redux";
-import {
-  addToCart,
-  removeFromCart,
-  clearFromCart,
-} from "../../redux/actions/cartActions";
+import { addToCart, removeFromCart } from "../../redux/actions/cartActions";
 
 import axios from "axios";
 
@@ -35,7 +31,6 @@ const UserCartDetailsPage = () => {
       userInfo={userInfo}
       addToCart={addToCart}
       removeFromCart={removeFromCart}
-      clearFromCart={clearFromCart}
       reduxDispatch={reduxDispatch}
       getUser={getUser}
       createOrder={createOrder}

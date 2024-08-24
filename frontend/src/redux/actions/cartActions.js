@@ -27,11 +27,3 @@ export const removeFromCart =
     });
     localStorage.setItem("cart", JSON.stringify(getState().cart.cartItems));
   };
-export const clearFromCart =
-  (productID, quantity, price) => (dispatch, getState) => {
-    dispatch({
-      type: actionTypes.CLEAR_FROM_CART,
-      payload: { productID: productID, quantity: quantity, price: price },
-    });
-    localStorage.setItem("cart", JSON.stringify(getState().cart.cartItems));
-  };
