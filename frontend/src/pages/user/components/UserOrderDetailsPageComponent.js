@@ -180,7 +180,7 @@ const UserOrderDetailsPageComponent = ({
                 </Button>
               </div>
               <div style={{ position: "relative", zIndex: 1 }}>
-                <div ref={paypalContainer} id="paypal-container-element"></div>
+                <div ref={Container} id="paypal-container-element"></div>
               </div>
             </ListGroup.Item>
           </ListGroup>
