@@ -19,7 +19,10 @@ The web application was implemented for the presentation layer with React.js. Th
 
 
 
-https://github.com/user-attachments/assets/c3473f37-b2b7-44f2-a6e9-da72e3acf9ed
+
+https://github.com/user-attachments/assets/44c08254-7cba-4e65-a2d0-43004f2f8e94
+
+
 
 
 
