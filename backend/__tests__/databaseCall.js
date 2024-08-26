@@ -15,15 +15,25 @@ afterAll(async () => {
   await mongoose.connection.close();
 });
 
-test("Should save category to database", async () => {
-    const mockCategory = { name: "test category" };
-    await Category.create(mockCategory);
+afterEach(async () => {
+  // Clean up the test data after each test
+  await Category.deleteMany({ name: "test category" });
+});
 
-    const insertedCategory = await Category.findOne({ name: "test category" });
-    expect(insertedCategory.name).toEqual(mockCategory.name);
-})
+test("Should save category to database", async () => {
+  const mockCategory = { name: "test category" };
+  await Category.create(mockCategory);
+
+  const insertedCategory = await Category.findOne({ name: "test category" });
+  expect(insertedCategory.name).toEqual(mockCategory.name);
+});
 
 test("Should delete category", async () => {
-  const category = await Category.findOne({ name: "test category" }).deleteOne();
-  expect(category.name).toBeFalsy();
+  const mockCategory = { name: "test category" };
+  await Category.create(mockCategory);
+
+  await Category.deleteOne({ name: "test category" });
+
+  const deletedCategory = await Category.findOne({ name: "test category" });
+  expect(deletedCategory).toBeNull(); // Ensure the category is no longer in the database
 });
