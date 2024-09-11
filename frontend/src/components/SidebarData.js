@@ -28,7 +28,7 @@ export const SidebarData = [
     cName: "nav-text",
   },
   {
-    title: "Οθώνες",
+    title: "Οθόνες",
     path: "product-list/category/Monitors",
     icon: <PiMonitorFill />,
     cName: "nav-text",
