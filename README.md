@@ -3,7 +3,7 @@
 
 ## :ledger: Description
 
-## Thesis PDF
+## Hellenic Open Univercity
 
 The PDF version of my thesis is available for download [here](link-to-your-pdf)
 
