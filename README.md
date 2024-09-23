@@ -4,7 +4,7 @@
 
 
 ## ![images](https://github.com/user-attachments/assets/4d336666-2b77-4a9c-8cd9-a335aef75778) 
-### 📒 The PDF version of my thesis is available for download :smile: [here](https://apothesis.eap.gr/archive/item/208637)
+### 📒 The PDF version of my thesis is available for download :arrow_right: [here](https://apothesis.eap.gr/archive/item/208637)
 
 
 
