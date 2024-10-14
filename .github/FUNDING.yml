@@ -1,8 +1,8 @@
 # These are supported funding model platforms
-github: [chriszaikis, surftocat]
-patreon: chriszaikis
+github: [octocat, surftocat]
+patreon: octocat
 tidelift: npm/octo-package
-custom: ["https://www.paypal.me/cheistoszaikis"]
+custom: ["https://www.paypal.me/octocat", octocat.com]
 
 github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
 patreon: # Replace with a single Patreon username
